@@ -16,8 +16,8 @@ I love diving into networks, analyzing traffic, and using tools to uncover hidde
 
 ## 🌱 Currently Learning
 
-* Networking & Penetration Testing
-* Strengthening fundamentals through the **Microsoft Cybersecurity Analyst** course
+* Networking
+* Learning Penetration Testing, Threat Hunting, and Cryptography through IBM
 
 ---
 
