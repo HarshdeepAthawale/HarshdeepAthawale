@@ -2,6 +2,7 @@
 
 🎯 I'm a passionate **Cybersecurity Enthusiast** with over a year of hands-on experience in exploring the world of
 **Ethical Hacking**, **Penetration Testing**, and **Networking**.
+Executive Member at **OWASP Student Chapter** TIET,Patiala
 I love diving into networks, analyzing traffic, and using tools to uncover hidden insights!
 
 ---
