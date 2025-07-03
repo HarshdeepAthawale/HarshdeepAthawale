@@ -40,6 +40,7 @@
 - GitHub: [github.com/HarshdeepAthawale](https://github.com/HarshdeepAthawale)
 - Portfolio: [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app) *(Add your deployed site here)*
 
+---
 
 ## 🚀 Fun Fact
 
