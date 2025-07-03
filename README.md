@@ -17,8 +17,7 @@ I love diving into networks, analyzing traffic, and using tools to uncover hidde
 
 ## 🌱 Currently Learning
 
-* Networking
-* Learning Penetration Testing, Threat Hunting, and Cryptography through IBM
+* Networking for my CCNA exam
 
 ---
 
