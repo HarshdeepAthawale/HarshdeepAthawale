@@ -5,21 +5,14 @@ Sophomore at Thapar Institute of Engineering and Technology (TIET), pursuing Com
 ---
 
 technical skills.
-Languages:
-Python, C
-Security Tools:
-Nmap, Wireshark, Burp Suite, Metasploit, OWASP ZAP
-Platforms & OS:
-Windows, Kali Linux, VMware
-Cloud & Deployment:
-Microsoft Azure, Vercel
-Specializations:
-Network Security, SIEM(Security Information and Event Management)
-Designing Tools:
-Figma, Canva
-Other Tools:
-Git, GitHub, AutoCAD, Visual Studio Code
 
+Languages : Python, C
+Security Tools : Nmap, Wireshark, Burp Suite, Metasploit, OWASP ZAP
+Platforms & OS : Windows, Kali Linux, VMware
+Cloud & Deployment : Microsoft Azure, Vercel
+Specializations : Network Security, SIEM(Security Information and Event Management)
+Designing Tools : Figma, Canva
+Other Tools : Git, GitHub, AutoCAD, Visual Studio Code
 ---
 
 ## 🌱 Currently Learning
