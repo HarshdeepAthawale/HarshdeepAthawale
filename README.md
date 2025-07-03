@@ -1,9 +1,6 @@
 # 👋 Hi there, I'm Harshdeep!
 
-🎯 I'm a passionate **Cybersecurity Enthusiast** with over a year of hands-on experience in exploring the world of
-**Ethical Hacking**, **Penetration Testing**, and **Networking**.
-Executive Member at **OWASP Student Chapter** TIET,Patiala.
-I love diving into networks, analyzing traffic, and using tools to uncover hidden insights!
+Sophomore at Thapar Institute of Engineering and Technology (TIET), pursuing Computer Engineering. A passionate cybersecurity enthusiast with a keen interest in network security, Azure cloud technologies, and ethical hacking. Currently serving as an Executive Member at the OWASP Student Chapter, where I actively engage in learning and contributing to the cybersecurity community. Currently preparing for the CCNA certification exam to strengthen my networking fundamentals and practical skills.
 
 ---
 
