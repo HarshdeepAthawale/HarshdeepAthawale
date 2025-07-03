@@ -1,17 +1,45 @@
-# 👋 Hi there, I'm Harshdeep!
+<h1 align="center">Hi there 👋, I'm Harshdeep Athawale</h1>
+<h3 align="center">Cybersecurity Enthusiast | Cloud Computing | Network Security Learner</h3>
 
-Sophomore at Thapar Institute of Engineering and Technology (TIET), pursuing Computer Engineering. A passionate cybersecurity enthusiast with a keen interest in network security, Azure cloud technologies, and ethical hacking. Currently serving as an Executive Member at the OWASP Student Chapter, where I actively engage in learning and contributing to the cybersecurity community. Currently preparing for the CCNA certification exam to strengthen my networking fundamentals and practical skills.
+- 🧑‍💻 I'm a **19-year-old** sophomore pursuing **Computer Engineering** at **Thapar Institute of Engineering and Technology (TIET)**  
+- 🔐 Passionate about **cybersecurity**, **ethical hacking**,**cloud computing** and **secure network infrastructure**  
+- 📚 Currently preparing for the **CCNA certification** to enhance my networking fundamentals  
+- 👨‍💻 Executive Member at the **OWASP Student Chapter**, actively contributing to the cybersecurity community  
+- 🚀 Interested in **SIEM**, **Azure cloud**, and real-world **penetration testing** scenarios  
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages**  
+`Python` • `C`
+
+**Security Tools**  
+`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `OWASP ZAP`
+
+**Cloud & Deployment**  
+`Microsoft Azure` • `Vercel`
+
+**Platforms & Operating Systems**  
+`Windows` • `Kali Linux` • `VMware`
+
+**Specializations**  
+`Network Security` • `SIEM (Security Information and Event Management)`
+
+**Design Tools**  
+`Figma` • `Canva`
+
+**Other Tools**  
+`Git` • `GitHub` • `AutoCAD` • `Visual Studio Code`
 
 ---
 
-technical skills.
+### 📫 Let's Connect
 
+- LinkedIn: [linkedin.com/in/harshdeep-athawale](https://linkedin.com/in/harshdeep-athawale) *(Add your actual link)*
+- GitHub: [github.com/HarshdeepAthawale](https://github.com/HarshdeepAthawale)
+- Portfolio: [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app) *(Add your deployed site here)*
 
-## 🌱 Currently Learning
-
-* Networking for my CCNA exam
-
----
 
 ## 🚀 Fun Fact
 
