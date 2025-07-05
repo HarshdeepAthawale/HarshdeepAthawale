@@ -30,7 +30,7 @@
 `Figma` • `Canva`
 
 **Other Tools**  
-`Git` • `GitHub` • `AutoCAD` • `Visual Studio Code`
+`Git` • `GitHub` • `AutoCAD` • `Visual Studio Code` • `Cisco Packet Tracer`
 
 ---
 
