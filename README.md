@@ -5,7 +5,7 @@
 - 🔐 Passionate about **cybersecurity**, **ethical hacking**,**cloud computing** and **secure network infrastructure**  
 - 📚 Currently preparing for the **CCNA certification** to enhance my networking fundamentals  
 - 👨‍💻 Executive Member at the **OWASP Student Chapter**, actively contributing to the cybersecurity community  
-- 🚀 Interested in **SIEM**, **Azure cloud**, and real-world **Networking**   
+- 🚀 Interested in **SIEM**, **Azure cloud**, and **Networking**   
 
 ---
 
