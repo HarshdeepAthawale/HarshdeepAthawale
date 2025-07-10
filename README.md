@@ -36,9 +36,9 @@
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/harshdeep-athawale](https://linkedin.com/in/harshdeep-athawale) *(Add your actual link)*
+- LinkedIn: [linkedin.com/in/harshdeep-athawale](https://linkedin.com/in/harshdeep-athawale)
 - GitHub: [github.com/HarshdeepAthawale](https://github.com/HarshdeepAthawale)
-- Portfolio: https://harshdeepathawale-tech.vercel.app/ *(Add your deployed site here)*
+- Portfolio: https://harshdeepathawale-tech.vercel.app/
 
 ---
 
