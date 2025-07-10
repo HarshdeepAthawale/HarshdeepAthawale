@@ -38,7 +38,7 @@
 
 - LinkedIn: [linkedin.com/in/harshdeep-athawale](https://linkedin.com/in/harshdeep-athawale) *(Add your actual link)*
 - GitHub: [github.com/HarshdeepAthawale](https://github.com/HarshdeepAthawale)
-- Portfolio: [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app) *(Add your deployed site here)*
+- Portfolio: https://harshdeepathawale-tech.vercel.app/ *(Add your deployed site here)*
 
 ---
 
