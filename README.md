@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Cloud Computing | Network Security Learner</h3>
 
 - 🧑‍💻 I'm a **19-year-old** sophomore pursuing **Computer Engineering** at **Thapar Institute of Engineering and Technology (TIET)**  
-- 🔐 Passionate about **cybersecurity**, **ethical hacking**,**cloud computing** and **secure network infrastructure**  
+- 🔐 Passionate about **cybersecurity**, **cloud computing** and **secure network infrastructure**  
 - 📚 Currently preparing for the **CCNA certification** to enhance my networking fundamentals  
 - 👨‍💻 Executive Member at the **OWASP Student Chapter**, actively contributing to the cybersecurity community  
 - 🚀 Interested in **SIEM**, **Azure cloud**, and **Networking**   
@@ -15,7 +15,7 @@
 `Python` • `C`
 
 **Security Tools**  
-`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `OWASP ZAP`
+`Nmap` • `Wireshark` • `Burp Suite` • `LOIC` • `OWASP ZAP`
 
 **Cloud & Deployment**  
 `Microsoft Azure` • `Vercel`
