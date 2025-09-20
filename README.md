@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harshdeep Athawale</h1>
-<h3 align="center">Cybersecurity Enthusiast | Cloud Computing | Network Security Learner</h3>
+<h3 align="center">Cybersecurity proffesional | Cloud Computing | Network Security</h3>
 
 - 🧑‍💻 I'm a **19-year-old** sophomore pursuing **Computer Engineering** at **Thapar Institute of Engineering and Technology (TIET)**  
 - 🔐 Passionate about **cybersecurity**, **cloud computing** and **secure network infrastructure**  
