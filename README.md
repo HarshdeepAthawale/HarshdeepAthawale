@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harshdeep Athawale</h1>
-<h3 align="center">Security Researcher @ HackerOne | Cybersecurity Professional | Backend Developer
+<h3 align="center">Security Researcher @HackerOne | Cybersecurity Professional | Backend Developer
 </h3>
 
 - 🧑‍💻 I'm a **19-year-old** sophomore pursuing **Computer Engineering** at **Thapar Institute of Engineering and Technology (TIET)**  
