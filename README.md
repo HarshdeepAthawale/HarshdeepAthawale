@@ -1,1 +1,1 @@
-# Security Researcher @HackerOne | Offensive Security Engineer | Backend Developer
+# Security Researcher @HackerOne | Security Engineer | Backend Developer
