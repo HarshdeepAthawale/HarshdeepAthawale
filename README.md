@@ -2,9 +2,9 @@
 
 I hunt vulnerabilities and architect security defenses.
 
-**Offense:** I weaponize Burp Suite, Nmap, OWASP ZAP, Nessus, SQLmap, Gobuster, WhatWeb, Nikto, and Wireshark to penetrate web applications, networks, and APIs. My focus: REST/GraphQL API security-breaking auth mechanisms, exposing authorization flaws, bypassing rate limits, and extracting sensitive data before attackers do.
+**Offensive Security:** Conduct comprehensive penetration testing and vulnerability assessments across web applications, network infrastructure, and APIs using industry-standard tools: Burp Suite, Nmap, OWASP ZAP, Nessus, SQLmap, Gobuster, WhatWeb, Nikto, and Wireshark. Specialize in REST and GraphQL API security—identifying broken authentication, authorization bypass vulnerabilities, rate limiting evasion, and sensitive data exposure. Perform adversarial testing to uncover exploitable gaps before threat actors do.
 
-**Defense:** I design and build security systems—transformer-based WAF engines, SIEM architectures, threat models, secure-by-design reviews, and compliance frameworks (SOC 2, GDPR, ISO 27001). I don't just find the gap; I build what closes it.
+**Defensive Security:** Design and implement security controls and architectural safeguards—including transformer-based WAF systems, SIEM pipelines, threat modeling frameworks, secure-by-design architecture reviews, and compliance-aligned security policies (SOC 2, GDPR, ISO 27001). Bridge the gap between vulnerability discovery and remediation through proactive security engineering.
 
 ### Key Work
 
