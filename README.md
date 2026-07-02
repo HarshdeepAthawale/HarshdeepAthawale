@@ -8,6 +8,6 @@ On the engineering side, I design and implement security controls-from WAF devel
 
 - **35+ vulnerabilities** reported across Flipkart, OPPO, Netflix, Adobe, Coca-Cola, Superdrug, Anduril Industries, Goldman Sachs, Red Bull, Nvidia and more on HackerOne & Intigriti
 - **Built a transformer-based WAF** from scratch using DistilBERT-achieved 98.5% attack detection (2.16x better than ModSecurity CRS v4) tested on 675 real-world payloads across 10 attack categories
-- **Ranked in the Top 1% globally** on TryHackMe, achieving an all-time India rank of #2,052, completing 230+ labs, and maintaining a 300+ day learning streak
+- **Ranked in the Top 1% globally** on TryHackMe, achieving an all-time India rank of #2,052, completing 230+ labs, and maintaining a 310+ day learning streak
 
 There's always a bug-I just happen to find it first 👾🦹
