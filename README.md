@@ -1,4 +1,4 @@
-## Security Researcher & Security Engineer
+## Software & Security
 
 I am focused on discovering vulnerabilities, building defensive systems, and hardening applications at every layer of the stack. I specialize in offensive security engagements across web applications, network infrastructure, and APIs, leveraging methodical reconnaissance and exploitation to surface critical vulnerabilities. I rigorously assess REST and GraphQL APIs for authentication flaws, authorization bypasses, rate-limiting deficiencies, and sensitive data exposure.
 
