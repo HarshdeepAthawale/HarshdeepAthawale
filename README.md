@@ -1,13 +1,14 @@
 ## Software & Security
 
-I am focused on discovering vulnerabilities, building defensive systems, and hardening applications at every layer of the stack. I specialize in offensive security engagements across web applications, network infrastructure, and APIs, leveraging methodical reconnaissance and exploitation to surface critical vulnerabilities. I rigorously assess REST and GraphQL APIs for authentication flaws, authorization bypasses, rate-limiting deficiencies, and sensitive data exposure.
 
-On the engineering side, I design and implement security controls-from WAF development and SIEM pipelines to secure architecture reviews, threat modeling, and compliance-aligned security policies (SOC 2, GDPR, ISO 27001). I bridge the gap between finding vulnerabilities and building systems that prevent them.
-
-### Some of My Work
-
-- **35+ vulnerabilities** reported across Flipkart, OPPO, Netflix, Adobe, Coca-Cola, Superdrug, Anduril Industries, Goldman Sachs, Red Bull, Nvidia and more on HackerOne & Intigriti
-- **Built a transformer-based WAF** from scratch using DistilBERT-achieved 98.5% attack detection (2.16x better than ModSecurity CRS v4) tested on 675 real-world payloads across 10 attack categories
-- **Ranked in the Top 1% globally** on TryHackMe, achieving an all-time India rank of #2,052, completing 230+ labs, and maintaining a 310+ day learning streak
-
-There's always a bug-I just happen to find it first 👾🦹
+I build software and break web and mobile apps to report critical bugs.
+ 
+Security researcher/engineer with 35+ vulnerability reports to programs like Red Bull, Goldman Sachs, NVIDIA, Flipkart, and Coca-Cola.
+ 
+What I've built and worked on:
+• Transformer-based Web Application Firewall that catches 96% of real-world attack payloads vs 46% for ModSecurity CRS v4, at ~6ms latency.
+• Secured an agentic AI platform - sandboxed untrusted code execution and runtime isolation that stopped cross-tenant leakage and kept workloads secure at 5K+ concurrent users.
+• Authored SOC 2 and ISO 27001 compliance documentation with privacy-by-design controls (data classification, encryption, retention), establishing the company's GRC baseline.
+ 
+3rd year CS @ TIET · Open to Software Security Intern roles for Fall 2026.
+GitHub : https://github.com/HarshdeepAthawale
