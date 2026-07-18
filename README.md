@@ -14,8 +14,6 @@ Security researcher/engineer with 35+ vulnerability reports to programs like Red
 
 ---
 
-**3rd year CS @ TIET · Open to Software Security Intern roles for Fall 2026**
+3rd year CS @ TIET · Open to Software Security Intern roles for Fall 2026.
 
-**GitHub:** https://github.com/HarshdeepAthawale
-
-**Medium:** https://medium.com/@harshdeepathawale
+Medium: https://medium.com/@harshdeepathawale
