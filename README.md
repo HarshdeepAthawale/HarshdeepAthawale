@@ -1,5 +1,3 @@
-## Software & Security
-
 
 I build software and break web and mobile apps to report critical bugs.
  
