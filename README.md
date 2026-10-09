@@ -1,19 +1,17 @@
-# Harshdeep Athawale
+# Hi, I'm Harshdeep Athawale
 
-I build software and break web and mobile apps to report critical bugs.
+Security Engineer & Researcher: offensive security, AI platform security, and WAF engineering.
 
-Security researcher/engineer with 35+ vulnerability reports to programs like Red Bull, Goldman Sachs, NVIDIA, Flipkart, and Coca-Cola.
+3rd-year CS @ TIET · Open to Security Intern roles for 2027
 
-## What I've built and worked on
+### Vulnerability Research
+35+ HackerOne reports to programs including Netflix, Goldman Sachs, Adobe, NVIDIA, Red Bull, and Coca-Cola.
+- **Critical (CVSS 9.1):** GraphQL flaw exposing employee PII, Red Bull
+- **High (CVSS 8.6):** Authentication bypass, Netflix Law Enforcement Portal
+- **Critical:** Unauthenticated API with production database write access, Coca-Cola
+- **High (CVSS 7.5):** Subdomain takeover, NVIDIA
 
-- Transformer-based Web Application Firewall that catches 96% of real-world attack payloads vs 46% for ModSecurity CRS v4, at ~6ms latency.
+### Experience
+**Iris Intelligence:** Secured an agentic AI platform. I built the sandboxing and tenant isolation for untrusted code execution at 5K+ concurrent users and established the company's SOC 2 Type II and ISO 27001 foundation.
 
-- Secured an agentic AI platform - sandboxed untrusted code execution and runtime isolation that stopped cross-tenant leakage and kept workloads secure at 5K+ concurrent users.
-
-- Authored SOC 2 and ISO 27001 compliance documentation with privacy-by-design controls (data classification, encryption, retention), establishing the company's GRC baseline.
-
----
-
-3rd year CS @ TIET · Open to Software Security Intern roles for Fall 2026.
-
-Medium: https://medium.com/@harshdeepathawale
+[LinkedIn](#) · [HackerOne](#) · [Email](mailto:#)
