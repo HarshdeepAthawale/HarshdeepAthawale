@@ -12,5 +12,5 @@ Security Engineer & Researcher: offensive security, AI platform security, and WA
 - **High (CVSS 7.5):** Subdomain takeover, NVIDIA & Anduril
 
 ### Security Engineering
-Secured an agentic AI platform. I built the sandboxing and tenant isolation for untrusted code execution at 5K+ concurrent users.
+• Identified and remediated IDOR, SQL injection, authentication bypass, and RCE vulnerabilities across REST APIs and authentication flows, securing a platform serving 5K+ users.
 
